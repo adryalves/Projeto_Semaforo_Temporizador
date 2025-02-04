@@ -3,7 +3,7 @@
 Este projeto utiliza a função `add_alarm_in_ms()` do **Pico SDK** para implementar um sistema de **temporização** que controla o acionamento de **LEDs** através de um **botão (pushbutton)**.
 
 ## 📌 Link do vídeo de demonstração de funcionamento
-
+https://drive.google.com/file/d/149QWWUzceAYSvegseN4Ey2pP-fkDrIiT/view?usp=sharing
 
 
 ## 🛠 Componentes Utilizados
